@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680675810033",
+    "project_id": "littlecarts",
+    "storage_bucket": "littlecarts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680675810033:android:80ebff8c2ce0b62d32e750",
+        "android_client_info": {
+          "package_name": "com.example.littlecarts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqYWnDP7WghmbwZ4unYIcYipkWI-IaBBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
