@@ -3,12 +3,12 @@ LittleCarts is an Android mobile shopping application developed using Kotlin and
 
 ## ⭐ Key Features
 
-🛍️ Shopping Cart System - Shopping cart with real-time synchronization
-🔄 Cross-Device Sync - Data securely stored in Firebase, never lost when switching devices
-✏️ Product Customization - Robust CRUD system for product customization
-📊 Transaction History - Purchase history with well-organized data structure
-🎨 Modern UI - Interface developed based on Figma designs
-☁️ Real-time Database - Data synchronization using Firestore Database
+- 🛍️ Shopping Cart System - Shopping cart with real-time synchronization
+- 🔄 Cross-Device Sync - Data securely stored in Firebase, never lost when switching devices
+- ✏️ Product Customization - Robust CRUD system for product customization
+- 📊 Transaction History - Purchase history with well-organized data structure
+- 🎨 Modern UI - Interface developed based on Figma designs
+- ☁️ Real-time Database - Data synchronization using Firestore Database
 
 ## 🛠️ Technologies Used
 
