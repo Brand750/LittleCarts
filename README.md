@@ -1,6 +1,8 @@
 ## LittleCarts 🛒
 LittleCarts is an Android mobile shopping application developed using Kotlin and Firebase, focusing on seamless shopping experience with real-time cross-device synchronization.
 
+Code is in app/src/main/java/com/example/littlecarts/MainActivity.kt
+
 ## ⭐ Key Features
 
 - 🛍️ Shopping Cart System - Shopping cart with real-time synchronization
