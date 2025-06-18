@@ -3,6 +3,9 @@ LittleCarts is an Android mobile shopping application developed using Kotlin and
 
 Code is in app/src/main/java/com/example/littlecarts/MainActivity.kt
 
+## Video Demo
+https://www.youtube.com/watch?v=PPYevK6qLKc 
+
 ## ⭐ Key Features
 
 - 🛍️ Shopping Cart System - Shopping cart with real-time synchronization
